@@ -6,16 +6,23 @@ TagManager:
   tags:
   - DoorTag
   - VentTag
+  - GateTag
+  - WireGameTag
+  - WrenchCrateTag
+  - Checkpoint
+  - MazeCrateTag
+  - CorrectCrate
+  - KeyCrateTag
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - PostProcess
   - Water
   - UI
   - FloorLayer
   - Interact
-  - 
+  - VentPostProcess
   - 
   - 
   - 
